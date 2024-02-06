@@ -1,0 +1,133 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    background-color: rgb(55, 19, 133);
+    height: 400px;
+
+}
+
+.introdiv {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.introf {
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+.introdiv a {
+    color: black;
+    text-decoration: none;
+    border: 1px solid white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 5px;
+}
+
+
+.imgdiv {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgd {
+    box-shadow: 0px 0px 40px rgb(85, 9, 13);
+}
+
+body {
+    background-color: gray;
+}
+
+.sectioni {
+    background-color: linen;
+    border: 1px solid blueviolet;
+    font-weight: dark;
+    border-radius: 9px;
+    margin: 10px;
+    padding: 2px;
+    width: 18%;
+
+}
+
+.pp {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: justify;
+    margin: 15px;
+}
+
+.ski {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 10px 20px;
+    padding: 0px;
+}
+
+.pro {
+    border: 2px solid rgb(212, 250, 230);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.eduimg{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.edudiv{
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+   
+}
+
+.eduh{
+    border: 1px;
+    background-color: rgb(70, 85, 74);
+    margin: 10px;
+    padding: 15px;
+    color: rgb(248, 248, 248);
+    font-weight: bold;
+    border-radius: 15px;
+    font-size: larger;
+
+    text-align: center;
+
+}
+
+.footer{
+    background-color: rgb(81, 81, 195);
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+}
+
+.probt{
+    border: 1px solid black;
+    border-radius: 12px;
+    color: black;
+    font-weight: bold;
+    background-color: aquamarine;
+    text-decoration: none;
+    padding: 5px;
+    
+}
